@@ -4,4 +4,4 @@
 
 👨🏻‍💻 My name is [Iulian Cristian Grigoriță](https://iuliancristiangrigorita.com) and I am a software engineer.
 
-📧 [Let's connect!](contact@iuliancristiangrigorita.com)
+📧 [Let's connect!](mailto:contact@iuliancristiangrigorita.com)
