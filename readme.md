@@ -1,7 +1,9 @@
 # Iulian Cristian Grigoriță
 
-Hello!
+👋🏻 Hello!
 
-My name is Iulian Cristian Grigoriță and I'm a software engineer.
+👨🏻‍💻 My name is [Iulian Cristian Grigoriță](https://iuliancristiangrigorita.com) and I am a software engineer.
 
-Let's [connect](mailto:contact@iuliancristiangrigorita.com)!
+📧 [Let's connect!](mailto:contact@iuliancristiangrigorita.com)
+
+🌍 [https://iuliancristiangrigorita.com](https://iuliancristiangrigorita.com)
