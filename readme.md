@@ -1,6 +1,6 @@
 # Iulian Cristian Grigoriță
 
-👋🏻 Hello!
+👋🏻 Hello, world!
 
 👨🏻‍💻 My name is [Iulian Cristian Grigoriță](https://iuliancristiangrigorita.com) and I am a software engineer.
 
